@@ -1,6 +1,6 @@
 # JPA01-billybobjoe123
 
-Deployed at: https://jpa01-billybobjoe123.dokku-02.cs.ucsb.edu
+Deployed at: http://jpa01-billybobjoe123.dokku-02.cs.ucsb.edu
 
 
 # About this repo
